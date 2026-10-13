@@ -1,0 +1,13 @@
+review_id,product_id,rating,comment,review_time
+R001,P001,5,"Tai nghe rất tốt, âm thanh hay, giao nhanh",2026-10-10 08:30:00
+R002,P001,2,"Pin yếu và đóng gói kém",2026-10-10 09:20:00
+R003,P002,5,"Hàng đẹp, đúng mô tả",2026-10-10 10:00:00
+R004,P002,3,"Sản phẩm bình thường",2026-10-10 10:30:00
+R005,P003,1,"Giao chậm, sản phẩm bị lỗi",2026-10-11 11:15:00
+R006,P003,4,"Giá tốt, dùng khá ổn",2026-10-11 12:00:00
+R007,P001,5,"Mình rất hài lòng, chất lượng tốt",2026-10-11 13:30:00
+R008,P002,2,"Hơi thất vọng, đóng gói xấu",2026-10-11 14:20:00
+R009,P003,5,"Tuyệt vời, sẽ mua lại",2026-10-12 08:00:00
+R010,P001,3,"Không tệ nhưng cũng không xuất sắc",2026-10-12 09:00:00
+R011,P002,4,"Giao đúng hẹn, sản phẩm ổn",2026-10-12 10:00:00
+R012,P003,1,"Hỏng ngay ngày đầu, quá tệ",2026-10-12 12:00:00
